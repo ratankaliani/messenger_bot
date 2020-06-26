@@ -1,2 +1,2 @@
-# messenger_bot
+# Messenger Bot
 a messenger bot meant to mimic me 
